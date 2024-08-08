@@ -1,4 +1,4 @@
-<h1>PizzaBili</h1>
+<h1>PizzaBill</h1>
 <p>PizzaBili is a Java application designed to manage and calculate the cost of different types of pizzas. The project includes functionalities for standard and deluxe pizzas with various toppings and sizes.</p>
 
 <h2>Project Structure</h2>
